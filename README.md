@@ -53,20 +53,16 @@ Extended instructions [here](BOOTABLEUSB.md).
 ---
 **Compatible Boards:**
 -
-See the [compatibility information](COMPATIBILITY.md).
+Currently supporting MacBook, Mac Mini and iMac, see the [compatibility information](COMPATIBILITY.md). Mac Pro support is in early planning.
 
-Older, single file payloads for boards such as 820-3115/3332 are currently being worked out. Support may be added in the future.
+Older single file payloads for boards such as 820-3115/3332/3462 are currently being worked out. Support *may* be added in the future.
 
 ---
-
 **Compatible SMC:**
 -
-
 ✅ Texus Instruments LM4 BGA157\
 ❌ Texus Instruments TM4 BGA168\
 ❌ Renesas DF2117 BGA145
-
-Currently supporting MacBook. and Mac Mini. Coming soon is iMac.
 
 ---
 **Why must the firmware be flashed:**
@@ -88,7 +84,6 @@ You must replace the update, base, code and EPM in the respective folder, say 82
 Alternative SMC payloads can be found in firmwareupdate.pkg inside the MacOS Install.ESD file, or [here](https://github.com/sadponyguerillaboy/SMC-Toolkit/tree/main/SMCPayloads).
 
 ---
-
 **Screen resolution:**
 -
 Use the `mode` command to display a list of supported screen modes, type the highest mode available e.g. `mode 160 47`, then press return.

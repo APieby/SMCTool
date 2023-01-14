@@ -1,3 +1,9 @@
+**Version 1.0.6**
+```
+ - Moved machine types into sub menus
+ - Script optimisation
+ - Support Board: 820-3588
+```
 **Version 1.0.5**
  ```
  - Script optimisation

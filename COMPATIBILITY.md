@@ -151,3 +151,12 @@ Flash using 820-00426.nsh
  
  Flash using 820-5509.nsh
 ```
+**iMac**
+```
+ - iMac14,1 (21.5 inch, Late 2013)
+ - Board Model: 820-3588
+ - Board-ID: Mac-031B6874CF7F642A
+ - Firmware: v2.14f24
+ 
+ Flash using 820-3588.nsh
+```
