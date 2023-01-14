@@ -1,5 +1,5 @@
 @echo ""
-@echo "SMCTool V1.0.5 by David R (Muerto)"
+@echo "SMCTool V1.0.6 by David R (Muerto)"
 @echo ""
 @echo " Type your device name, then press return:-"
 @echo ""
