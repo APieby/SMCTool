@@ -144,6 +144,8 @@ Flash using 820-00426.nsh
 ```
 **Mac Mini**
 ```
+A1347 (EMC numbers incoming)
+
  - MacMini7,1 (Late 2014-2017)
  - Board Model: 820-5509
  - Board-ID: Mac-35C5E08120C7EEAF
@@ -153,6 +155,8 @@ Flash using 820-00426.nsh
 ```
 **iMac**
 ```
+A1418 (EMC number incoming)
+
  - iMac14,1 (21.5 inch, Late 2013)
  - Board Model: 820-3588
  - Board-ID: Mac-031B6874CF7F642A
