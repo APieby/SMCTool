@@ -161,11 +161,22 @@ A1347 (EMC2840)
 ```
 A1418 (EMC2638)
 
- - iMac14,1 (21.5 inch, Late 2013)
- - Board Model: 820-3588
+ - iMac14,1 (21.5 inch, Late 2013, dGPU)
+ - Board Model: 820-3482
  - Board-ID: Mac-031B6874CF7F642A
  - Firmware: v2.14f24
  
+ Flash using 820-3482.nsh
+```
+
+```
+A1418 (EMC2742)
+
+ - iMac14,3 (21.5 inch, Late 2013, iGPU)
+ - Board Model: 820-3588
+ - Board-ID: Mac-77EB7D7DAF985301
+ - Firmware:  v2.17f7
+
  Flash using 820-3588.nsh
 ```
 
