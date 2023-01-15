@@ -15,6 +15,8 @@ It has come to my attention SMCTool may not like some USB memory sticks, I use S
 **EineWildeStehlampe** for information and help regarding UEFI.\
 **theSmudge** for being a great help verifying information.
 
+If you'd like to make a donation for my work, please [see here](https://www.buymeacoffee.com/Muerto). Cheers.
+
 ---
 **Before you start:**
 -

@@ -7,6 +7,7 @@ Some boards carry identical board-ids but have different logic board models, I h
 If you'd like to verify a board please open an issue. Make sure to include the model, EMC number, board-id, board model, and proof of a successful flash (Just copy the format below if you want). I would really appreciate help here.
 
 **MacBook Air**
+-
 ```
 A1465 (EMC2631)
 
@@ -52,6 +53,7 @@ A1466 (EMC2925, EMC3178) - Verified
 Flash using 820-00165.nsh
 ```
 **MacBook Pro**
+-
 ```
 A1502 (EMC2678. EMC2875) -  Verified
 
@@ -143,10 +145,11 @@ A1398 (EMC2910)
 Flash using 820-00426.nsh
 ```
 **Mac Mini**
+-
 ```
-A1347 (EMC numbers incoming)
+A1347 (EMC2840)
 
- - MacMini7,1 (Late 2014-2017)
+ - MacMini7,1 (Late 2014 - 2017)
  - Board Model: 820-5509
  - Board-ID: Mac-35C5E08120C7EEAF
  - Firmware: v2.24f32
@@ -154,8 +157,9 @@ A1347 (EMC numbers incoming)
  Flash using 820-5509.nsh
 ```
 **iMac**
+-
 ```
-A1418 (EMC number incoming)
+A1418 (EMC2638)
 
  - iMac14,1 (21.5 inch, Late 2013)
  - Board Model: 820-3588
@@ -163,4 +167,26 @@ A1418 (EMC number incoming)
  - Firmware: v2.14f24
  
  Flash using 820-3588.nsh
+```
+
+```
+A1419 (EMC2639)
+
+ - iMac14,2 (27 inch, Late 2013, 1GB VRAM)
+ - Board Model: 820-3478
+ - Board-ID: Mac-27ADBB7B4CEE8E61
+ - Firmware: v2.15f7
+ 
+ Flash using 820-3478.nsh
+```
+
+```
+A1419 (EMC2639)
+
+ - iMac14,2 (27 inch, Late 2013, 2GB VRAM)
+ - Board Model: 820-3481
+ - Board-ID: Mac-27ADBB7B4CEE8E61
+ - Firmware: v2.15f7
+ 
+ Flash using 820-3481.nsh
 ```

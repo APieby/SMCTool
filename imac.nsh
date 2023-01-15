@@ -3,6 +3,8 @@
 @echo " Type your board number, then press return:-"
 @echo ""
 @echo "A1418 820-3588 - FW: 2.14f24 - Type: 820-3588.nsh"
+@echo "A1419 820-3478 - FW: 2.15f7  - Type: 820-3478.nsh"
+@echo "A1419 820-3481 - FW: 2.15f7  - Type: 820-3481.nsh"
 @echo ""
 @echo "Type 'startup.nsh' to go back."
 @echo ""
