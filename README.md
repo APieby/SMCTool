@@ -24,6 +24,8 @@ I'm not responsible if you do something wrong, if you're here I expect you to kn
 
 This is also **not** a magical 'fix my Mac' tool, it has a specific purpose, which is flashing correct payloads to a System Management Controller with incorrect firmware.
 
+Finally, a word on SMCTool 'test' branches, they're a work-in-progress, and unfinished validation wise. Using any 'test' branch is not recommended unless you absolutely know what you're doing.
+
 ---
 **Download:**
 -
