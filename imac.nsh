@@ -4,6 +4,7 @@
 @echo ""
 @echo "A1418 820-3482 - FW: 2.14f24 - Type: 820-3482.nsh"
 @echo "A1418 820-3588 - FW: 2.17f7  - Type: 820-3588.nsh"
+@echo "A1418 820-4668 - FW: 2.21f92 - Type: 820-4668.nsh"
 @echo "A1419 820-3478 - FW: 2.15f7  - Type: 820-3478.nsh"
 @echo "A1419 820-3481 - FW: 2.15f7  - Type: 820-3481.nsh"
 @echo ""

@@ -175,9 +175,20 @@ A1418 (EMC2742)
  - iMac14,3 (21.5 inch, Late 2013, iGPU)
  - Board Model: 820-3588
  - Board-ID: Mac-77EB7D7DAF985301
- - Firmware:  v2.17f7
+ - Firmware: v2.17f7
 
  Flash using 820-3588.nsh
+```
+
+```
+A1418 (EMC2805)
+
+ - iMac14,4 (21.5 inch, Mid 2014)
+ - Board Model: 820-4668
+ - Board-ID: Mac-81E3E92DD6088272
+ - Firmware: v2.21f92
+
+ Flash using 820-4668.nsh
 ```
 
 ```

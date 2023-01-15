@@ -4,6 +4,7 @@
  - Script optimisation
  - Support Board: 820-3482
  - Support Board: 820-3588
+ - Support Board: 820-4668
  - Support Board: 820-3478
  - Support Board: 820-3481
 ```
