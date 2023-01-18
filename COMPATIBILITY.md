@@ -233,5 +233,5 @@ A1419 (EMC 2806)
  - Board-ID: Mac-FA842E06C61E91C5
  - Firmware: v2.23f11
  
- Flash using 820-.nsh
+ Flash using 820-5029.nsh
 ```
