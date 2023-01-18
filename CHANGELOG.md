@@ -7,6 +7,8 @@
  - Support Board: 820-4668
  - Support Board: 820-3478
  - Support Board: 820-3481
+ - Support Board: 820-4652
+ - Support Board: 820-5029
 ```
 **Version 1.0.5**
  ```
