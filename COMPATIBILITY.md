@@ -111,12 +111,12 @@ Flash using 820-3787.nsh
 ```
 *Use the below with precation, I'm unsure they're all 06F11F11946D27C5.*
 ```
-A1398 (EMC2909)
+A1398 (EMC2909) - Verified
 
  - MacBookPro11,4 (15-inch Mid 2015 with iGPU)
  - Board Model: 820-00138
- - Board-ID: Mac-06F11F11946D27C5
- - Firmware: 2.30f2
+ - Board-ID: Mac-06F11FD93F0323C5
+ - Firmware: 2.29f4
 
 Flash using 820-00138.nsh
 ```
